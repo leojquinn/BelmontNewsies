@@ -22,10 +22,26 @@
   color: #61dafb;
 }
 
+.Home-Button{
+  color: blue
+}
+
+.BelmontTitle {
+  font-size: 75px;
+}
+
 .heart {
   color: #ff0000;
 }
 
-.small {
-  font-size: 0.75rem;
+.body {
+  margin: 0;
+  padding: 0;
+}
+
+.top-bar {
+  background-color: teal; /* Set your desired background color */
+  color: black; /* Set your desired text color */
+  padding: 10px;
+  text-align: center;
 }

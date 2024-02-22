@@ -2,12 +2,34 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App"> p
-      <header className="App-header">
-        <img src="Belmont.png" className="App-logo" alt="logo" />
-        <p>
-          Belmont Newsies
-        </p>
+    <head>
+      
+      <app-header></app-header>
+       <body>
+       </body>
+      
+       <html lang="en"> /</html>
+      <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Your Website</title>
+</link>
+</meta>
+</meta>
+    <div class="top-bar">
+        <p>Your Website Name</p>
+    </div>
+
+    
+
+
+</head>
+
+      
+      
+        
+        <p className="BelmontTitle">𝐁𝐞𝐥𝐦𝐨𝐧𝐭 𝐍𝐞𝐰𝐬𝐢𝐞𝐬</p>
         <p>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/IS8ZkRPA-pI?si=48cN6SLWEw4IhaOU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </p>
@@ -19,11 +41,11 @@ function App() {
       <p><iframe width="560" height="315" src="https://www.youtube.com/embed/tOtVkaGqtbQ?si=Q1KZnyJU7CAhg8ho&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
       
       
-      </header>
-    </div>
+      </head>
+    
     
 
   );
-}
+  }
 
 export default App;
